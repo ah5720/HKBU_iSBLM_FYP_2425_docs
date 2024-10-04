@@ -18,6 +18,17 @@
 
 ##
 
+## Documentation
+* User Auth
+  * Pinia System
+    * authStore 
+  * Three User Roles: 
+    * Admin -> View All Users
+    * Supervisors -> View Supervised Students
+    * Students -> View Corse & Modules
+* Proj Manage
+* User Manage
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Test Account
